@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach", "Foreach\Foreach.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas", "Listas\Listas.csproj", "{F2A29008-A768-4351-92BE-94F977BBBDDE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EXListas", "EXListas", "{43032308-CA36-A59A-92EC-9ADB8BE398A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXLista", "EXListas\EXLista\EXLista.csproj", "{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,11 +173,24 @@ Global
 		{F2A29008-A768-4351-92BE-94F977BBBDDE}.Release|x64.Build.0 = Release|Any CPU
 		{F2A29008-A768-4351-92BE-94F977BBBDDE}.Release|x86.ActiveCfg = Release|Any CPU
 		{F2A29008-A768-4351-92BE-94F977BBBDDE}.Release|x86.Build.0 = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|x64.Build.0 = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|x64.ActiveCfg = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|x64.Build.0 = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{D99F54F5-6355-448D-9B89-DD7DFADD5C14} = {C6D74D6F-C8D3-09A3-BD43-EE8D0E3D5BDF}
+		{74CD0ECD-A477-40D9-9E63-72E42CBE95DF} = {43032308-CA36-A59A-92EC-9ADB8BE398A2}
 	EndGlobalSection
 EndGlobal
