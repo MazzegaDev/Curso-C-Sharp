@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EX1", "EXVetores\EX1\EX1.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorParams", "ModificadorParams\ModificadorParams.csproj", "{BDC0A1FC-074E-4228-BC7A-9A700E130911}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModificadorRefOut", "ModificadorRefOut\ModificadorRefOut.csproj", "{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -113,6 +115,18 @@ Global
 		{BDC0A1FC-074E-4228-BC7A-9A700E130911}.Release|x64.Build.0 = Release|Any CPU
 		{BDC0A1FC-074E-4228-BC7A-9A700E130911}.Release|x86.ActiveCfg = Release|Any CPU
 		{BDC0A1FC-074E-4228-BC7A-9A700E130911}.Release|x86.Build.0 = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|x64.Build.0 = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Debug|x86.Build.0 = Debug|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|x64.ActiveCfg = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|x64.Build.0 = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|x86.ActiveCfg = Release|Any CPU
+		{0EF63322-A8CF-42A1-AD30-E98F04A0E33A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
