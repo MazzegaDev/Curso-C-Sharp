@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaVAR", "InferenciaVAR\InferenciaVAR.csproj", "{74D6E3B2-7EA2-4668-8947-FF8EC4E4D605}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CFB956D5-627F-4F50-AD5E-A961A65646DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,18 @@ Global
 		{74D6E3B2-7EA2-4668-8947-FF8EC4E4D605}.Release|x64.Build.0 = Release|Any CPU
 		{74D6E3B2-7EA2-4668-8947-FF8EC4E4D605}.Release|x86.ActiveCfg = Release|Any CPU
 		{74D6E3B2-7EA2-4668-8947-FF8EC4E4D605}.Release|x86.Build.0 = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|x64.Build.0 = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x64.ActiveCfg = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x64.Build.0 = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
