@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InferenciaVAR", "Inferencia
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwitchCase", "SwitchCase\SwitchCase.csproj", "{CFB956D5-627F-4F50-AD5E-A961A65646DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondicionalTernaria", "CondicionalTernaria\CondicionalTernaria.csproj", "{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x64.Build.0 = Release|Any CPU
 		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x86.ActiveCfg = Release|Any CPU
 		{CFB956D5-627F-4F50-AD5E-A961A65646DE}.Release|x86.Build.0 = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|x64.Build.0 = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Debug|x86.Build.0 = Debug|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|x64.ActiveCfg = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|x64.Build.0 = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|x86.ActiveCfg = Release|Any CPU
+		{E43C6D57-AE3C-4FC6-BEFA-DC9C4873DA94}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
