@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncoesParaString", "Funcoe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datetime", "Datetime\Datetime.csproj", "{138C7899-26DA-4923-9510-C50722B04D91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timespan", "Timespan\Timespan.csproj", "{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{138C7899-26DA-4923-9510-C50722B04D91}.Release|x64.Build.0 = Release|Any CPU
 		{138C7899-26DA-4923-9510-C50722B04D91}.Release|x86.ActiveCfg = Release|Any CPU
 		{138C7899-26DA-4923-9510-C50722B04D91}.Release|x86.Build.0 = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|x64.Build.0 = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Debug|x86.Build.0 = Debug|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|x64.ActiveCfg = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|x64.Build.0 = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|x86.ActiveCfg = Release|Any CPU
+		{90573DBE-AE91-4BA7-BC17-824DF4AA4E86}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
